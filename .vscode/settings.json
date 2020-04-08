@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 120,
+  "prettier.singleQuote": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "node_modules/**": true,
+    ".expo*": true,
+    "*lock*": true
+  }
+}

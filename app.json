@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Expo-Firebase Phone Authentication",
+    "slug": "expo-firebase-phone-authentication",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaXXX",
+        "authDomain": "expo-firebase-phone-auth-XXX.firebaseapp.com",
+        "databaseURL": "https://expo-firebase-phone-auth-XXX.firebaseio.com",
+        "projectId": "expo-firebase-phone-auth-XXX",
+        "storageBucket": "expo-firebase-phone-auth-XXX.appspot.com",
+        "messagingSenderId": "XXXXXX",
+        "appId": "1:XXXXXX:web:XXXXXX",
+        "measurementId": "G-XXXXXX"
+      }
+    }
+  }
+}
